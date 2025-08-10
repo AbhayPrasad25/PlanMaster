@@ -1,0 +1,29 @@
+{
+  "name": "planmaster",
+  "version": "1.0.0",
+  "description": "A project Management System",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhayPrasad25/PlanMaster.git"
+  },
+  "keywords": [
+    "Backend",
+    "API",
+    "creation"
+  ],
+  "author": "Abhay Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhayPrasad25/PlanMaster/issues"
+  },
+  "homepage": "https://github.com/AbhayPrasad25/PlanMaster#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
